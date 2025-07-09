@@ -9,6 +9,10 @@ dist/
 web-build/
 expo-env.d.ts
 
+ node_modules/
+ios/Pods/
+*.log
+.env
 # Native
 .kotlin/
 *.orig.*
